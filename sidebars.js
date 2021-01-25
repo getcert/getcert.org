@@ -18,6 +18,7 @@ module.exports = {
       type: "category",
       label: "RedHat",
       items: ["redhat/ex200"],
+      collapsed: false,
       // items: ["redhat/ex200", "redhat/ex294"],
     },
     // {
