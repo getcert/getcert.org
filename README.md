@@ -1,33 +1,19 @@
-# Website
+<p align="center">
+  <img width="66%" src="https://res.cloudinary.com/dkmuc5wf9/image/upload/v1611612775/getcert-brand/logo-small_zqpdph.svg" align="center" alt="GetCert " />
+  <h1 align="center">GetCert</h1>
+  <h2 align="center">The effective study place for your next certification</h2>
+  <br />
+  <p align="center">
+    <a href="https://github.com/getcert/getcert.org/stargazers">
+      <img alt="Stars" src="https://img.shields.io/github/stars/getcert/getcert.org?color=75AADB" />
+    </a>
+    <a href="https://github.com/getcert/getcert.org/network/members">
+      <img alt="Forks" src="https://img.shields.io/github/forks/getcert/getcert.org?color=75AADB" />
+    </a>
+    <a href="https://github.com/getcert/getcert.org/blob/main/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/getcert/getcert.org" />
+    </a>
+  </p>
+</p>
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
-
-## Installation
-
-```console
-yarn install
-```
-
-## Local Development
-
-```console
-yarn start
-```
-
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+---
