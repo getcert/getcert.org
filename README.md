@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="66%" src="https://res.cloudinary.com/dkmuc5wf9/image/upload/v1611612775/getcert-brand/logo-small_zqpdph.svg" align="center" alt="GetCert " />
+  <img width="16%" src="https://res.cloudinary.com/dkmuc5wf9/image/upload/v1611612775/getcert-brand/logo-small_zqpdph.svg" align="center" alt="GetCert " />
   <h1 align="center">GetCert</h1>
   <h2 align="center">The effective study place for your next certification</h2>
   <br />
