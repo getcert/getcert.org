@@ -85,11 +85,10 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()}. All rights reserved.`
     },
     googleAnalytics: {
-      trackingID: 'G-WZWWQZXG6X',
+      trackingID: 'UA-188134482-1',
       anonymizeIP: false,
     },
   },
-  plugins: ['@docusaurus/plugin-google-analytics'],
   presets: [
     [
       '@docusaurus/preset-classic',
