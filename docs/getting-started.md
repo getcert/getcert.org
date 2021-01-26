@@ -52,23 +52,23 @@ values={[
 }>
 <TabItem value="Flashcards">
 
-### To achieve this thing you need train your brain in the art of memorizing raw facts. We use Anki to do that and CrowdAnki to share it with the git community.
+##### To achieve this thing you need train your brain in the art of memorizing raw facts. We use Anki to do that and CrowdAnki to share it with the git community.
 
 
- + ### [Anki](https://apps.ankiweb.net/) is an open-source flashcard app that uses spaced repetition algorithms to help you prevent natural forgetting that help you to intentionally commit information into long-term memory.
+ + [Anki](https://apps.ankiweb.net/) is an open-source flashcard app that uses spaced repetition algorithms to help you prevent natural forgetting that help you to intentionally commit information into long-term memory.
 
- + ### [CrowdAnki](https://github.com/Stvad/CrowdAnki) is a plugin for Anki that allows users to import and export decks/notes and all relevant information in a JSON format.
+ + [CrowdAnki](https://github.com/Stvad/CrowdAnki) is a plugin for Anki that allows users to import and export decks/notes and all relevant information in a JSON format.
 
 
 </TabItem>
 <TabItem value="Playlists">
 
-### Catch ideas of every single exam topic from videos, that allow you consistency jumping between the anki knowledge to our playground practices test.
+##### Catch ideas of every single exam topic from videos, that allow you consistency jumping between the anki knowledge to our playground practices test.
 
 </TabItem>
 <TabItem value="Playground">
 
-### Try for your own the challenges presented this place. 
+##### Try for your own the challenges presented this place. 
 
 </TabItem>
 </Tabs>
