@@ -9,12 +9,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'getcert', // Usually your GitHub org/user name.
   projectName: 'getcert.org', // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
-    googleAnalytics: {
-      trackingID: 'G-WZWWQZXG6X',
-      anonymizeIP: false,
-    },
     navbar: {
       title: 'GetCert',
       logo: {
@@ -89,7 +84,12 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()}. All rights reserved.`
     },
+    googleAnalytics: {
+      trackingID: 'G-WZWWQZXG6X',
+      anonymizeIP: false,
+    },
   },
+  plugins: ['@docusaurus/plugin-google-analytics'],
   presets: [
     [
       '@docusaurus/preset-classic',
