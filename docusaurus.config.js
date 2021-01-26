@@ -97,13 +97,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/getcert/getcert.org/edit/main',
+            'https://github.com/getcert/getcert.org/edit/master',
             routeBasePath: "/",
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/getcert/getcert.org/edit/main/website/blog/',
+            'https://github.com/getcert/getcert.org/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
