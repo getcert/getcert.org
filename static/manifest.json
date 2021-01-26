@@ -4,7 +4,7 @@
     "lang": "en",
     "start_url": "/",
     "display": "standalone",
-    "theme_color": "blue",
+    "theme_color": "#75AADB",
     "icons": [
       {
         "src": "img/logo-192.png",

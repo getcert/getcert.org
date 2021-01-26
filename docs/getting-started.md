@@ -52,23 +52,27 @@ values={[
 }>
 <TabItem value="Flashcards">
 
-This file’s purpose is to make it easier to import your page component. It sets the default export value to your actual component, so you don’t have to write your component name two times when importing it.
+### To achieve this thing you need train your brain in the art of memorizing raw facts. We use Anki to do that and CrowdAnki to share it with the git community.
+
+
+ + ### [Anki](https://apps.ankiweb.net/) is an open-source flashcard app that uses spaced repetition algorithms to help you prevent natural forgetting that help you to intentionally commit information into long-term memory.
+
+ + ### [CrowdAnki](https://github.com/Stvad/CrowdAnki) is a plugin for Anki that allows users to import and export decks/notes and all relevant information in a JSON format.
+
 
 </TabItem>
 <TabItem value="Playlists">
 
-Catch ideas from videos.
+### Catch ideas of every single exam topic from videos, that allow you consistency jumping between the anki knowledge to our playground practices test.
 
 </TabItem>
 <TabItem value="Playground">
 
-This file’s purpose is to make it easier to import your page component. It sets the default export value to your actual component, so you don’t have to write your component name two times when importing it.
+### Try for your own the challenges presented this place. 
 
 </TabItem>
 </Tabs>
 
-
 ## Learning Path
 
 ## Contribute
-How to use
